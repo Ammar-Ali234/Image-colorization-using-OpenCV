@@ -16,7 +16,7 @@ If you'd like to hire me for your project, you can also find me on Fiverr:
 ## 🚀 Try It Live
 
 You can test the live demo of this project here:  
-🔗 **Live Demo:** https://example-demo-link.com  
+🔗 **Live Demo:** [APP](https://image-colorization-using-opencv-by-ammarali.streamlit.app/)  
  
 
 ## Pre-trained Model download link-
